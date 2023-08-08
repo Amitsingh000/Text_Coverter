@@ -1,4 +1,4 @@
-# I have created this file - Harry
+# I have created this file - Amitsingh
 from django.http import HttpResponse
 from django.shortcuts import render
 
